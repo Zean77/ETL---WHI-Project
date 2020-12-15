@@ -1,4 +1,4 @@
-stats_country,WBK_life_expectancy
+Country,2018
 Aruba,76.2
 Afghanistan,64.5
 Angola,60.8
@@ -18,7 +18,7 @@ Belgium,81.6
 Benin,61.5
 Burkina Faso,61.2
 Bangladesh,72.3
-Bulgaria,75.0
+Bulgaria,75
 Bahrain,77.2
 "Bahamas, The",73.8
 Bosnia and Herzegovina,77.3
@@ -33,10 +33,10 @@ Bhutan,71.5
 Botswana,69.3
 Central African Republic,52.8
 Canada,81.9
-Central Europe and the Baltics,77.0
+Central Europe and the Baltics,77
 Switzerland,83.8
 Channel Islands,82.9
-Chile,80.0
+Chile,80
 China,76.7
 Cote d'Ivoire,57.4
 Cameroon,58.9
@@ -51,11 +51,11 @@ Cuba,78.7
 Curacao,NA
 Cayman Islands,NA
 Cyprus,80.8
-Czech Republic,79.0
+Czech Republic,79
 Germany,80.9
 Djibouti,66.6
 Dominica,NA
-Denmark,81.0
+Denmark,81
 Dominican Republic,73.9
 Algeria,76.7
 East Asia & Pacific (excluding high income),75.2
@@ -70,7 +70,7 @@ Eritrea,65.9
 Spain,83.4
 Estonia,78.2
 Ethiopia,66.2
-European Union,81.0
+European Union,81
 Fragile and conflict affected situations,61.5
 Finland,81.7
 Fiji,67.3
@@ -84,7 +84,7 @@ Ghana,63.8
 Gibraltar,NA
 Guinea,61.2
 "Gambia, The",61.7
-Guinea-Bissau,58.0
+Guinea-Bissau,58
 Equatorial Guinea,58.4
 Greece,81.8
 Grenada,72.4
@@ -132,12 +132,12 @@ Liberia,63.7
 Libya,72.7
 St. Lucia,76.1
 Latin America & Caribbean,75.4
-Least developed countries: UN classification,65.0
+Least developed countries: UN classification,65
 Low income,63.5
-Liechtenstein,83.0
+Liechtenstein,83
 Sri Lanka,76.8
 Lower middle income,68.4
-Low & middle income,71.0
+Low & middle income,71
 Lesotho,53.7
 Late-demographic dividend,76.2
 Lithuania,75.7
@@ -151,7 +151,7 @@ Moldova,71.8
 Madagascar,66.7
 Maldives,78.6
 Middle East & North Africa,74.1
-Mexico,75.0
+Mexico,75
 Marshall Islands,NA
 Middle income,71.9
 North Macedonia,75.7
@@ -166,11 +166,11 @@ Mozambique,60.2
 Mauritania,64.7
 Mauritius,74.4
 Malawi,63.8
-Malaysia,76.0
+Malaysia,76
 North America,78.9
 Namibia,63.4
 New Caledonia,77.1
-Niger,62.0
+Niger,62
 Nigeria,54.3
 Nicaragua,74.3
 Netherlands,81.8
@@ -202,7 +202,7 @@ Romania,75.4
 Russian Federation,72.7
 Rwanda,68.7
 South Asia,69.4
-Saudi Arabia,75.0
+Saudi Arabia,75
 Sudan,65.1
 Senegal,67.7
 Singapore,83.1
@@ -226,9 +226,9 @@ Sint Maarten (Dutch part),NA
 Seychelles,72.8
 Syrian Arab Republic,71.8
 Turks and Caicos Islands,NA
-Chad,54.0
+Chad,54
 East Asia & Pacific (IDA & IBRD countries),75.2
-Europe & Central Asia (IDA & IBRD countries),74.0
+Europe & Central Asia (IDA & IBRD countries),74
 Togo,60.8
 Thailand,76.9
 Tajikistan,70.9
@@ -243,8 +243,8 @@ Trinidad and Tobago,73.4
 Tunisia,76.5
 Turkey,77.4
 Tuvalu,NA
-Tanzania,65.0
-Uganda,63.0
+Tanzania,65
+Uganda,63
 Ukraine,71.6
 Upper middle income,75.3
 Uruguay,77.8
